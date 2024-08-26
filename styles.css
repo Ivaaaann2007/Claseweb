@@ -1,0 +1,104 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+div.inicio{
+    margin-top: 5%;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    background: #f4f4f4;
+}
+
+div.inicio h1,p{
+    font-size: 18px;
+    margin-bottom: 10px;
+    color:#000;
+    text-align: center;
+    margin-left: 4%;
+    margin-right: 4%
+}
+
+div.inicio hr{
+    border: 0;
+    border-top: 2px solid #333;
+    text-align: center;
+}
+
+div.centro {
+    margin-top: 2%;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    background: #f4f4f4;
+
+}
+
+div.centro h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+    color:#000;
+    text-align: center;
+}
+
+div.centro hr{
+    border: 0;
+    border-top: 2px solid #333;
+    text-align: center;
+    margin-top: 2.5%;
+    
+}
+
+.tabla-centro {
+    margin: 20px 0;
+    overflow-x: auto; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.tabla-centro table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.tabla-centro td {
+    border: 1px solid #ddd;
+    padding: 20px;
+    text-align: left;
+}
+
+
+.centro.table{
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+.centro.td{
+    border: 1px solid#000;
+    padding: 10px;
+    text-align: left;
+}
+
+.final{
+    margin-top: 2%;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    background: #f4f4f4;
+}
+
+.final a{
+    text-decoration: none;
+     color: white;
+     background-color: #007BFF;
+     padding: 17px 25px;
+     border-radius: 20px;
+     font-size: 20px;
+     margin-right: 20%;
+     margin-left: 2%;
+     margin-top: 25%;
+        
+}
